@@ -1,0 +1,190 @@
+{
+ "all_weather_reference": {
+  "definition": "公开口径：股票30%／长期债券40%／中期债券15%／黄金7.5%／大宗商品7.5%（经典全天候结构；股票锚定沪深300，债券锚定中国国债，黄金与商品锚定国际期货报价）。非个人持仓。",
+  "note": "组合层面精确回报口径未建立，第1期不提供组合回报数字；下期起以本周数据为基线跟踪漂移。"
+ },
+ "commodities_2026_11_16": {
+  "brent": "96.26美元/桶（+0.44%；年初至今约+58%）",
+  "copper": "6.02美元/磅（-0.99%；年初至今约+7%）",
+  "gold_comex": "约3864美元/盎司（-0.56%；年初至今约-11%）",
+  "source": "Yahoo Finance期货近月报价，据fininfostation.com，2026-11-16 14:33台北更新",
+  "wti": "89.12美元/桶（+0.63%；年初至今约+55%）"
+ },
+ "data_asof": "2026-11-16收盘（A股）／11月16日美东收盘（美股）；11月17日早盘快照截至09:35",
+ "doc_id": "1bxPWam1NWNVQoKIxZn5vHMuIPXaTS_TbYrxsSt0LoeA",
+ "doc_title": "趋势与全天候配置简报 · 第1期（2026年11月17日）",
+ "doc_url": "https://docs.google.com/document/d/1bxPWam1NWNVQoKIxZn5vHMuIPXaTS_TbYrxsSt0LoeA/edit?usp=drivesdk",
+ "edition": 1,
+ "edition_date": "2026-11-17",
+ "etf_returns_asof_2026_11_17_0935": {
+  "csi300_etf": {
+   "1m": "-4.12%",
+   "52w_low": "1.363（10月23日）",
+   "5d": "-1.72%",
+   "ytd": "-9.79%"
+  },
+  "csi500_etf": {
+   "1m": "-6.85%",
+   "52w_low": "7.133（10月30日）",
+   "5d": "-4.65%",
+   "ytd": "-11.79%"
+  },
+  "source": "Finnhub",
+  "star50_etf": {
+   "1m": "-9.8%",
+   "52w_low": "11.22港元（11月3日）",
+   "5d": "-2.21%",
+   "ytd": "-4.39%"
+  }
+ },
+ "fx_2026_11_16": {
+  "dxy": "约103.5，创2025年4月以来新高，连续第三周上涨",
+  "usd_cny_fixing": "6.7141（较前一交易日升值11基点，连续3日升值；年初以来升值4.687%）",
+  "usd_cny_spot": "约6.67"
+ },
+ "indices_close_2026_11_16": {
+  "chinext": {
+   "close": 2320.02,
+   "day_chg": "-4.37%",
+   "note": "再创年内新低；失守2400点"
+  },
+  "csi300": {
+   "close": 3979.8,
+   "day_chg": "-0.91%",
+   "note": "创2025年7月7日以来新低；52周区间3958.14–5064.27"
+  },
+  "shanghai_composite": {
+   "close": 3602.57,
+   "day_chg": "-0.87%",
+   "note": "盘中跌破3600点"
+  },
+  "shenzhen_component": {
+   "close": 10690.78,
+   "day_chg": "-2.53%"
+  },
+  "star50": {
+   "close": 1213.68,
+   "day_chg": "-5.16%",
+   "note": "跌破1250点"
+  },
+  "turnover": "两市约1.48万亿元，较上日减少约1712亿元（约-10%）",
+  "csi500": {
+   "close": 6297.18,
+   "day_chg": "-2.60%"
+  },
+  "csi1000": {
+   "close": 6164.62,
+   "day_chg": "-3.03%"
+  },
+  "sse50": {
+   "close": 2766.57,
+   "day_chg": "-0.30%",
+   "note": "宽基中最抗跌"
+  },
+  "close_2026_11_13": {
+   "csi300": 4016.29,
+   "chinext": 2426.08,
+   "shanghai_composite": 3634.35,
+   "sse50": 2775.02
+  }
+ },
+ "no_change_streak_weeks": 0,
+ "rates_2026_11_16": {
+  "cn10y": "1.63%（+2bp）",
+  "cn2y": "1.24%（+1bp）",
+  "cn3m": "1.17%（持平）",
+  "us10y": "5.117%（-3.6bp）"
+ },
+ "series": "weekly-trend-allocation-briefing",
+ "unresolved_unknowns": [
+  "北证50收盘点位未核实",
+  "全天候组合层面回报口径未建立",
+  "原油不同来源报价差异大（布伦特96–106美元/桶）",
+  "10月各主要指数月度涨跌幅未逐项核实",
+  "沪深300的11月16日当日MA20/MA60/MA250值未核实（引用11月9日值）",
+  "北向资金当日净买入自2024年8月起不再披露（非数据缺失，是披露口径变更）"
+ ],
+ "us_close_2026_11_16": {
+  "dow": {
+   "close": 51608.17,
+   "day_chg": "-1.41%"
+  },
+  "nasdaq": {
+   "close": 24509.76,
+   "day_chg": "-2.49%"
+  },
+  "nasdaq100": {
+   "close": 27197.15,
+   "day_chg": "-2.67%"
+  },
+  "russell2000": {
+   "close": 2742.94,
+   "day_chg": "-1.70%"
+  },
+  "sp500": {
+   "close": 7416.59,
+   "day_chg": "-1.92%"
+  },
+  "vix": "约22.9（+18.6%）"
+ },
+ "revision": 2,
+ "revision_date": "2026-11-17",
+ "revision_note": "新增市场情绪（第三节）与趋势系统仓位（第七节）；补入中证500/中证1000/上证50收盘；修正英伟达财报时间为美东11-17盘后（北京时间11-18早间）",
+ "sentiment_2026_11_16": {
+  "cycle": "冰点期，温度18°（连板网，午间）",
+  "advance_decline": "上涨1,136 / 下跌4,344（沪深京），连续第三天超4,300家下跌",
+  "limit_up_down": "涨停约32-33家 / 跌停约60-63家（两来源口径略异）；午间跌停仅14家，午后扩散",
+  "consecutive_boards": "最高4板（北纬科技）；连板9家；晋级率27%",
+  "break_rate": "炸板率33.3%（真实炸板）",
+  "prev_limit_up_premium": "+0.48%（红盘率44.4%，大面率16.7%）",
+  "all_a": "1,645.564（-2.37%）",
+  "breadth_91_etf": "23涨/1平/67跌，中位-1.28%；涨超2%仅1只（银行ETF +2.23%），跌超2%达35只；站上MA20仅21/91",
+  "new_high_low_63d": "82/621（午间），新低占优",
+  "margin_balance_asof_2026_11_13": "两融22,865.25亿（-163.40亿）；融资22,571.97亿（-166.34亿）；融券293.28亿（+2.94亿）",
+  "turnover": "沪深京1.494万亿，缩量10.38%",
+  "northbound": "当日净买入自2024年8月起不再披露，本期无该数据",
+  "late_session": "跌停66→63、上涨950→1,136，尾盘30分钟首次承接试探",
+  "main_line": "无持续主线（最强题材AI应用仅3家涨停）；红利抱团，多只银行股创历史新高"
+ },
+ "trend_system": {
+  "rules": "趋势过滤：指数收盘价 vs MA20/MA60/MA250（年线），多头排列=价格>MA20>MA60>MA250且均线向上，空头排列反之；趋势强度：52周高低位置+近1月/近6月涨跌幅；广度确认：上涨家数占比、站上MA20的ETF占比、涨停-跌停差；波动率环境：VIX及近期振幅。",
+  "position_bands_pct_of_total_assets": {
+   "强多头": "25%-30%",
+   "偏多": "15%-25%",
+   "中性/震荡": "10%-15%",
+   "偏空": "5%-10%",
+   "防御": "0%-5%"
+  },
+  "reference_weight_full": "30%（全天候参考组合股票权重为满配基准）",
+  "current_signal": "防御",
+  "current_position": "0%-5%（占总资产；相当于30%参考权重的0-17%）",
+  "cross_check": "A股ETF罗盘（2026-11-17盘前版）同日输出仓位0%-10%，方向一致",
+  "add_triggers": [
+   "沪深300/上证收复MA20并站稳3个交易日",
+   "上涨家数占比回升至50%以上且跌停家数回落至20家以下",
+   "两市成交额回升至1.8万亿以上（放量确认）",
+   "创业板指收复45日低点2,376.28"
+  ],
+  "stay_defensive_triggers": [
+   "沪指有效跌破3,600点",
+   "沪深300跌破52周低3,958.14",
+   "跌停家数继续扩散"
+  ],
+  "ma_readings_2026_11_16": {
+   "sse": "收3,602.57，跌破MA5 3,647.42/MA10 3,653.13/MA20 3,662.20；位于MA60 3,812.29下方5.50%",
+   "chinext": "收2,320.02，位于MA20 2,532.75下方8.40%、MA60 3,030.78下方23.45%；跌破45日低点2,376.28（下方2.37%）",
+   "csi300": "收3,979.80；11月9日已跌破MA20 4,101.27/MA60 4,394.20/MA250 4,629.37，三线方向全部向下（11月16日当日均线值未核实）"
+  }
+ },
+ "cadence": "daily, weekdays (Mon-Fri) 09:00 CST; skip on A-share market holidays (no new doc, no send, log skip reason)",
+ "delivery": [
+  "main chat (link + 2-3 sentence summary)",
+  "Feishu (FULL text, single message, chat oc_e10e144e6a066a77b37e0d8a01c3fc61)",
+  "Telegram (FULL text, chunked <=4000 chars per message, chat_id 671779473)"
+ ],
+ "delivery_note": "Edition 1 (v2) full version synced 2026-11-17 morning: Feishu om_x100b608f333bf8a0c0beed4672462cb (single message, 8095 chars); Telegram message_ids 11/12/13 (3 chunks). Plain-text extractor: briefing-01.txt + briefing-01.chunkN.txt in scratch dir.",
+ "no_change_rule": "If no material change for 3 consecutive trading days, state in the briefing that no adjustment to focus is needed.",
+ "repo": "AiBotSpace/trend-allocation-briefing",
+ "working_dir": "/home/hatch/workspace/trend-allocation-briefing",
+ "repo_url": "https://github.com/AiBotSpace/trend-allocation-briefing"
+}

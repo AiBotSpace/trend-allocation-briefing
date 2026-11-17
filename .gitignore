@@ -1,0 +1,6 @@
+# Build artifacts (not pushed: GitHub connector handles UTF-8 text only)
+*.docx
+validate/
+__pycache__/
+*.tmp-*
+*.muse-github-snapshot-sync.json
