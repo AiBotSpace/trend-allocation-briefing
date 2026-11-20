@@ -10,12 +10,12 @@
   "source": "Yahoo Finance期货近月报价，据fininfostation.com，2026-11-16 14:33台北更新",
   "wti": "89.12美元/桶（+0.63%；年初至今约+55%）"
  },
- "data_asof": "2026-11-18收盘（A股）／11月18日美东收盘（美股）；美联储10月会议纪要为美东11月18日公布",
- "doc_id": "1m2q7THz7T-Xja45hD37BDM03F_V0chii7K_s4KtOjKE",
- "doc_title": "趋势与全天候配置简报 · 第3期（2026年11月19日）",
- "doc_url": "https://docs.google.com/document/d/1m2q7THz7T-Xja45hD37BDM03F_V0chii7K_s4KtOjKE/edit?usp=drivesdk",
- "edition": 3,
- "edition_date": "2026-11-19",
+ "data_asof": "2026-11-19收盘（A股）／11月19日美东收盘（美股）；Anthropic于美东11月19日上市首日交易",
+ "doc_id": "1M8IUOI4olPRyJFpU3m7Ot1PYUoFjxcJcn6En_XciKTE",
+ "doc_title": "趋势与全天候配置简报 · 第4期（2026年11月20日）",
+ "doc_url": "https://docs.google.com/document/d/1M8IUOI4olPRyJFpU3m7Ot1PYUoFjxcJcn6En_XciKTE/edit?usp=drivesdk",
+ "edition": 4,
+ "edition_date": "2026-11-20",
  "etf_returns_asof_2026_11_17_0935": {
   "csi300_etf": {
    "1m": "-4.12%",
@@ -97,13 +97,16 @@
  },
  "series": "weekly-trend-allocation-briefing",
  "unresolved_unknowns": [
-  "中国2年期国债收益率11月18日值未核实",
-  "11月17日两融余额未核实（T+1披露，11月18日公布；本期检索未取到）",
-  "中证500 ETF与上证50 ETF的11月18日收盘价与区间回报未核实",
-  "沪深300与上证指数的11月18日当日MA20／MA60／MA250值未核实（引用11月9日与11月16日值）",
-  "商品期货官方结算价未核实（本期引用美东16:49左右盘后报价）",
-  "北证50的11月17日收盘点位未核实（据11月18日-1.14%与11月17日+0.59%推算约841.46点）",
-  "香港恒生指数11月18日-0.91%仅单一市场观察来源，未与第二来源交叉核对",
+  "中国2年期国债收益率11月19日值未核实",
+  "11月19日两融余额未核实（T+1披露，11月20日公布；11月18日两融余额本期已补核实：22,378.30亿）",
+  "中证500 ETF、中证1000 ETF与上证50 ETF的11月19日收盘价与区间回报未核实",
+  "上证50与北证50的11月19日精确收盘点位未核实（本期据涨跌幅推算约2,773.39点／约798.67点）",
+  "沪深300与上证指数的11月19日当日MA20／MA60／MA250值未核实（引用11月9日与11月16日值）",
+  "铜期货官方结算价未核实（本期引用PropTraderz盘后报价约5.57美元/磅）",
+  "香港恒生指数11月19日收盘未核实",
+  "沃尔玛Q3财报结果未核实",
+  "A股ETF罗盘11月20日盘前版未取到（交叉验证沿用11月19日盘前版）",
+  "11月20日LPR报价尚未公布（9:15公布，市场预期持平1年期3.00%／5年期以上3.50%）",
   "全天候组合层面回报口径未建立",
   "北向资金当日净买入自2024年8月起不再披露（非数据缺失，是披露口径变更）"
  ],
@@ -130,9 +133,9 @@
   },
   "vix": "约22.9（+18.6%）"
  },
- "revision": 2,
- "revision_date": "2026-11-19",
- "revision_note": "第3期：指数集体收红但仍在3600下方，成交刷新年内新低；美联储10月纪要偏鹰；英伟达利好兑现后回落；金、铜、油同日重挫；ETF资金净流入157.94亿；趋势系统信号仍为防御，仓位建议不变。",
+ "revision": 3,
+ "revision_date": "2026-11-20",
+ "revision_note": "第4期：沪指连续第3个交易日收于3,600点下方，“有效跌破”确认；成交再创年内新低（1.3051万亿），涨停28家创年内新低；科创50连续3日上涨并站上MA20；ETF资金单日净流入510.99亿；美股大跌（道指-2.19%跌破5万点，标普六连跌），VIX 28.43；Anthropic首日+17.07%但较开盘回落12.8%；金价结算再跌-1.5%；趋势系统信号仍为防御，仓位建议不变。",
  "sentiment_2026_11_16": {
   "cycle": "冰点期，温度18°（连板网，午间）",
   "advance_decline": "上涨1,136 / 下跌4,344（沪深京），连续第三天超4,300家下跌",
@@ -161,7 +164,7 @@
   "reference_weight_full": "30%（全天候参考组合股票权重为满配基准）",
   "current_signal": "防御",
   "current_position": "0%-5%（占总资产；相当于30%参考权重的0-17%），与第1、2期相同",
-  "cross_check": "A股ETF罗盘（2026-11-19盘前版，11月18日收盘基线）同日输出权益0%-10%，中观3级强逆风，方向一致",
+  "cross_check": "A股ETF罗盘11月20日盘前版未取到；沿用11月19日盘前版（11月18日收盘基线）输出权益0%–10%，中观3级强逆风，方向一致",
   "add_triggers": [
    "沪深300/上证收复MA20并站稳3个交易日",
    "上涨家数占比回升至50%以上且跌停家数回落至20家以下",
@@ -169,7 +172,7 @@
    "创业板指收复45日低点2,376.28"
   ],
   "stay_defensive_triggers": [
-   "沪指收盘跌破3,600点（11月17–18日已连续2个交易日收于其下；若11月19日仍不能收复，“有效跌破”即确认）",
+   "沪指收盘跌破3,600点——11月17–19日已连续3个交易日收于其下，“有效跌破”确认，本项触发已兑现",
    "沪深300跌破52周低3,958.14",
    "跌停家数继续扩散"
   ],
@@ -189,6 +192,13 @@
    "chinext": "收2,311.62，位于45日低点2,376.28下方2.72%；位于11月16日MA20 2,532.75下方8.73%",
    "csi300": "收3,983.77；11月9日已跌破MA20 4,101.27／MA60 4,394.20／MA250 4,629.37，三线方向全部向下（11月18日当日均线值未核实）",
    "csi300_etf": "收4.058元，低于MA30约4.17、MA60约4.39（据aiklines，11月18日），空头排列；距52周低4.031仅+0.67%"
+  },
+  "ma_readings_2026_11_19": {
+   "sse": "收3,577.62，连续第3个交易日收于3,600点下方，“有效跌破”确认；位于11月16日MA20 3,662.20下方2.31%（11月19日当日均线值未核实）",
+   "chinext": "收2,293.34，位于45日低点2,376.28下方3.49%；位于11月16日MA20 2,532.75下方9.45%",
+   "csi300": "收3,984.84；11月9日已跌破MA20 4,101.27／MA60 4,394.20／MA250 4,629.37，三线方向全部向下（11月19日当日均线值未核实）",
+   "csi300_etf": "收4.06元，低于MA30 4.163、MA60 4.376（据aiklines，11月19日），空头排列；盘中创52周新低4.013元",
+   "star50": "收1,270.78，连续3日上涨，重新站上20日均线（据TekStocks）"
   }
  },
  "cadence": "daily, weekdays (Mon-Fri) 09:00 CST; skip on A-share market holidays (no new doc, no send, log skip reason)",
@@ -197,7 +207,7 @@
   "Feishu (FULL text, single message, chat oc_e10e144e6a066a77b37e0d8a01c3fc61)",
   "Telegram (FULL text, chunked <=4000 chars per message, chat_id 671779473)"
  ],
- "delivery_note": "Edition 3 published 2026-11-19: Google Doc 1m2q7THz7T-Xja45hD37BDM03F_V0chii7K_s4KtOjKE (moved into Drive folder 1R1ITlhJg9aimFs-HrnK-IW1qO9a1JxIK; folder now holds editions 1-3). Note: docs documents create was called twice by mistake (empty duplicate 10SJl-h4tl4GJT-pP0bWEqqqBUEAxJ95LinAQ147Gmdw trashed); drive files update (move) first attempt was interrupted by a service restart and did not apply, retried successfully. Feishu + Telegram sends and GitHub push: see run log.",
+ "delivery_note": "Edition 4 published 2026-11-20: Google Doc 1M8IUOI4olPRyJFpU3m7Ot1PYUoFjxcJcn6En_XciKTE (moved into Drive folder 1R1ITlhJg9aimFs-HrnK-IW1qO9a1JxIK; folder now holds editions 1-4). Note: docs documents create was called twice by mistake again (empty duplicate 1mSFlmXeuhio-6WLVpDyfIq0ghm7k4p-s2mkHT-BZz9w trashed); drive files update (move) succeeded on first attempt this time. Feishu full text + Telegram chunks: see delivery log.",
  "no_change_rule": "If no material change for 3 consecutive trading days, state in the briefing that no adjustment to focus is needed.",
  "repo": "AiBotSpace/trend-allocation-briefing",
  "working_dir": "/home/hatch/workspace/trend-allocation-briefing",
@@ -507,5 +517,160 @@
   "etf_flows": "ETF整体净流入157.94亿；宽基型净流入125.28亿",
   "intraday": "午间超4,200只个股下跌，午后探底回升；证监会午间否认要求基金上报AI敞口传闻",
   "main_line": "最强题材算力租赁9家涨停；华为昇腾4家；题材分散无合力"
+ },
+ "indices_close_2026_11_19": {
+  "shanghai_composite": {
+   "close": 3577.62,
+   "day_chg": "-0.28%",
+   "note": "连续第3个交易日收于3,600点下方，“有效跌破”确认；盘中最低3,547.94点；触及近60日最低"
+  },
+  "shenzhen_component": {
+   "close": 10583.2,
+   "day_chg": "-0.71%"
+  },
+  "csi300": {
+   "close": 3984.84,
+   "day_chg": "+0.03%",
+   "note": "距52周低3,958.14仅+0.67%"
+  },
+  "chinext": {
+   "close": 2293.34,
+   "day_chg": "-0.79%",
+   "note": "创近60日新低"
+  },
+  "star50": {
+   "close": 1270.78,
+   "day_chg": "+1.83%",
+   "note": "连续3日上涨，重新站上20日均线；宽基中唯一收红"
+  },
+  "csi500": {
+   "close": 6251.96,
+   "day_chg": "-0.48%"
+  },
+  "csi1000": {
+   "close": 5938.9,
+   "day_chg": "-1.88%",
+   "note": "宽基中跌幅最大"
+  },
+  "sse50": {
+   "close": 2773.39,
+   "day_chg": "+0.32%",
+   "note": "据涨跌幅推算，精确点位未核实"
+  },
+  "bse50": {
+   "close": 798.67,
+   "day_chg": "-3.99%",
+   "note": "据涨跌幅推算，精确点位未核实"
+  },
+  "turnover": "两市13,051.47亿元，较上日减少645.55亿元（-4.71%）；再创2026年内新低；沪深京三市合计约1.31万亿元",
+  "close_2026_11_18": {
+   "csi300": 3983.77,
+   "chinext": 2311.62,
+   "shanghai_composite": 3587.83,
+   "sse50": 2764.54
+  }
+ },
+ "us_close_2026_11_19": {
+  "dow": {
+   "close": 49097.06,
+   "day_chg": "-2.19%",
+   "note": "跌1,101.11点，跌破50,000点；距高点近-10%，接近技术性调整"
+  },
+  "sp500": {
+   "close": 7175.83,
+   "day_chg": "-2.02%",
+   "note": "六连跌，2024年以来最长连跌；距上月高点-8.2%；11个板块全部下跌"
+  },
+  "nasdaq": {
+   "close": 23879.2,
+   "day_chg": "-2.25%",
+   "note": "盘中一度涨超2%，随后全部回吐"
+  },
+  "nasdaq100": {
+   "close": 26517.05,
+   "day_chg": "-2.21%"
+  },
+  "russell2000": {
+   "close": 2655.11,
+   "day_chg": "-2.18%"
+  },
+  "vix": "28.43（+15.8%）",
+  "ant": "97.17美元（+17.07%）：发行价83美元，开盘111.50美元，盘中最高115.10美元，最低92.72美元；成交873.6亿美元居美股第一；盘后92.10美元（-5.22%）",
+  "nvda": "-3.3%，AMD -7.7%，美光 -2.1%"
+ },
+ "rates_2026_11_19": {
+  "cn10y": "1.58%（-1.4bp，ChinaBond）",
+  "cn2y": "未核实",
+  "us10y": "5.05%（-2bp）",
+  "us2y": "4.77%"
+ },
+ "fx_2026_11_19": {
+  "usd_cny_fixing": "6.7128（较前一交易日下调10基点，结束五连升）",
+  "usd_cny_spot": "11月19日收报6.6651元",
+  "dxy": "约103.9（+0.1%左右），仍处19个月高位附近"
+ },
+ "commodities_2026_11_19": {
+  "gold_comex": "12月合约结算价3,685.50美元/盎司（-1.5%）；现货金3,674.13美元（-1.3%），盘中触及3,667.19美元，2025年9月以来最低；盘后最后一笔3,627.9美元（-3.05% vs 周三结算）",
+  "wti": "12月83.21美元/桶（-0.06%）",
+  "brent": "1月91.98美元/桶（+0.03%）",
+  "copper": "约5.57美元/磅（-1.1%，盘后报价；官方结算价未核实）",
+  "silver": "42.82美元/盎司（-3.5%）",
+  "source": "路透（黄金结算价与现货金，2026-11-19）；人民财讯／DTN（原油结算价）；PropTraderz（铜、白银盘后报价）"
+ },
+ "etf_returns_asof_2026_11_19_close": {
+  "csi300_etf": {
+   "close": "4.06元",
+   "5d": "-1.31%",
+   "1m": "-3.79%",
+   "ytd": "-14.58%",
+   "52w_low": "4.013（11月19日盘中创）"
+  },
+  "star50_etf": {
+   "close": "1.344元",
+   "5d": "-2.68%",
+   "1m": "-5.15%",
+   "ytd": "-5.15%",
+   "52w_low": "1.197（11月3日）"
+  },
+  "csi500_etf": {
+   "close": "未核实",
+   "5d": "未核实",
+   "1m": "未核实",
+   "ytd": "未核实",
+   "52w_low": "未核实"
+  },
+  "csi1000_etf": {
+   "close": "未核实",
+   "5d": "未核实",
+   "1m": "未核实",
+   "ytd": "未核实",
+   "52w_low": "未核实"
+  },
+  "sse50_etf": {
+   "close": "未核实",
+   "5d": "未核实",
+   "1m": "未核实",
+   "ytd": "未核实",
+   "52w_low": "未核实"
+  },
+  "source": "Finnhub，截至2026年11月19日收盘；510300收盘4.06元据Finnhub与stockanalysis.com交叉核对",
+  "etf_flows": "11月19日ETF整体净流入510.99亿元，股票型460.46亿元，宽基型478.32亿元；588080净流入99.11亿，510330净流入96.73亿，159919净流入84.58亿（同花顺iFinD，据格隆汇）"
+ },
+ "sentiment_2026_11_19": {
+  "cycle": "冰点期（连板复盘，情绪24.2）；大盘温度5（冰点，objie）",
+  "advance_decline": "上涨649 / 下跌4,876（TekStocks，全市场）；平盘55家；上涨占比约11.6%；连续第6个交易日超4,000只股票下跌",
+  "limit_up_down": "涨停28家 / 跌停72–83家（金融界涨停28家，创2024年7月8日以来新低；跌停TekStocks口径72家／金融界·数据宝83家，口径略异）",
+  "consecutive_boards": "最高3板（真视通、全筑股份、盛剑科技）；连板5只；2板→3板晋级率42.9%",
+  "break_rate": "48.0%–51.1%（连板复盘48.0%；objie 51.1%）",
+  "prev_limit_up_premium": "+0.58%（红盘率50%）",
+  "avg_price": "-2.47%（前一日-1.03%）",
+  "main_capital_flow": "主力净流出374.8亿元（前一日净流出105.5亿元）",
+  "breadth_91_etf": "未核实（ETF罗盘11月20日盘前版未取到）",
+  "margin_balance_asof_2026_11_18": "沪深北两融22,378.30亿（-87.75亿）；融资22,082.62亿（-88.34亿）；连续4个交易日减少，累计-650.35亿；占A股流通市值2.56%",
+  "turnover": "沪深两市1.3051万亿，缩量645.55亿（-4.71%），再创年内新低",
+  "northbound": "当日净买入自2024年8月起不再披露，本期无该数据",
+  "etf_flows": "ETF整体净流入510.99亿；宽基型净流入478.32亿；6只宽基ETF成交破百亿",
+  "intraday": "低开下探，午后逐渐回升；科创50盘中一度跌超2%，尾盘直线拉升收涨1.83%",
+  "main_line": "最强题材半导体自主可控（光刻胶、先进封装、存储芯片，10只涨停）；算力租赁大幅分歧；AI应用、影视院线、传媒、游戏集中退潮"
  }
 }
